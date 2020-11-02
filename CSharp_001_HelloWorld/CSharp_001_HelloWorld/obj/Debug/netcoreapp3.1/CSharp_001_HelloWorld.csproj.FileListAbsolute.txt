@@ -1,0 +1,13 @@
+C:\Users\menuu\source\repos\CSharp_001_HelloWorld\CSharp_001_HelloWorld\bin\Debug\netcoreapp3.1\CSharp_001_HelloWorld.exe
+C:\Users\menuu\source\repos\CSharp_001_HelloWorld\CSharp_001_HelloWorld\bin\Debug\netcoreapp3.1\CSharp_001_HelloWorld.deps.json
+C:\Users\menuu\source\repos\CSharp_001_HelloWorld\CSharp_001_HelloWorld\bin\Debug\netcoreapp3.1\CSharp_001_HelloWorld.runtimeconfig.json
+C:\Users\menuu\source\repos\CSharp_001_HelloWorld\CSharp_001_HelloWorld\bin\Debug\netcoreapp3.1\CSharp_001_HelloWorld.runtimeconfig.dev.json
+C:\Users\menuu\source\repos\CSharp_001_HelloWorld\CSharp_001_HelloWorld\bin\Debug\netcoreapp3.1\CSharp_001_HelloWorld.dll
+C:\Users\menuu\source\repos\CSharp_001_HelloWorld\CSharp_001_HelloWorld\bin\Debug\netcoreapp3.1\CSharp_001_HelloWorld.pdb
+C:\Users\menuu\source\repos\CSharp_001_HelloWorld\CSharp_001_HelloWorld\obj\Debug\netcoreapp3.1\CSharp_001_HelloWorld.csprojAssemblyReference.cache
+C:\Users\menuu\source\repos\CSharp_001_HelloWorld\CSharp_001_HelloWorld\obj\Debug\netcoreapp3.1\CSharp_001_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\menuu\source\repos\CSharp_001_HelloWorld\CSharp_001_HelloWorld\obj\Debug\netcoreapp3.1\CSharp_001_HelloWorld.AssemblyInfo.cs
+C:\Users\menuu\source\repos\CSharp_001_HelloWorld\CSharp_001_HelloWorld\obj\Debug\netcoreapp3.1\CSharp_001_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\menuu\source\repos\CSharp_001_HelloWorld\CSharp_001_HelloWorld\obj\Debug\netcoreapp3.1\CSharp_001_HelloWorld.dll
+C:\Users\menuu\source\repos\CSharp_001_HelloWorld\CSharp_001_HelloWorld\obj\Debug\netcoreapp3.1\CSharp_001_HelloWorld.pdb
+C:\Users\menuu\source\repos\CSharp_001_HelloWorld\CSharp_001_HelloWorld\obj\Debug\netcoreapp3.1\CSharp_001_HelloWorld.genruntimeconfig.cache
